@@ -2,18 +2,3 @@
 
 Description:
 For your first project, you’ll practice web design skills by customizing a web page to create a personal profile. You'll modify the code for a basic web page by adding graphics, custom text, and a stylish design. This is a great way for you to practice HTML and CSS skills. It also gives you a web page you can use as a personal online calling card to advertise your experience, skills, and goals, and to provide links to your social media accounts on Twitter, LinkedIn and GitHub.
-
-You'll also practice using GitHub, an important tool used by millions of developers to share code and work collaboratively on programming projects. Creating and using a GitHub account is also a great way to share your work with potential employers.
-
-Instructions:
-Create or find an image file to represent yourself and a new image for the background. Be aware of file size: keep the profile image under 400 KB and the background image under 1 MB (see the link in the project resources section to Picresize, an online image resizing tool).
-Using a text editor, modify the HTML of the index.html file:
-
-Add the images you collected in step 1 to the page. Please leave the class "profile-image" intact on your profile image.
-Don't forget to update the text for your new profile image's alt attribute!
-
-Personalize all the text on the page by changing the name, background and goals. Feel free to make up the information if you do not wish to share anything personal.
-Add links to your GitHub, Twitter and LinkedIn accounts. If you don't have a Twitter or LinkedIn account, or don't want to share those, then you need to delete those links.
-Edit the href value of the Home link so it navigates to index.html. Note: do not use root relative links, or links that begin with a leading forward slash, /.
-Feel free to expand on this project, by adding an additional page or two, adding more images and customizing the CSS.
-If you do not want to add an additional page then delete the experience link in the HTML.

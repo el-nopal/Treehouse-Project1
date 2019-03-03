@@ -1,0 +1,12 @@
+Instructions:
+Create or find an image file to represent yourself and a new image for the background. Be aware of file size: keep the profile image under 400 KB and the background image under 1 MB (see the link in the project resources section to Picresize, an online image resizing tool).
+Using a text editor, modify the HTML of the index.html file:
+
+Add the images you collected in step 1 to the page. Please leave the class "profile-image" intact on your profile image.
+Don't forget to update the text for your new profile image's alt attribute!
+
+Personalize all the text on the page by changing the name, background and goals. Feel free to make up the information if you do not wish to share anything personal.
+Add links to your GitHub, Twitter and LinkedIn accounts. If you don't have a Twitter or LinkedIn account, or don't want to share those, then you need to delete those links.
+Edit the href value of the Home link so it navigates to index.html. Note: do not use root relative links, or links that begin with a leading forward slash, /.
+Feel free to expand on this project, by adding an additional page or two, adding more images and customizing the CSS.
+If you do not want to add an additional page then delete the experience link in the HTML.
